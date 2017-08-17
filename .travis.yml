@@ -1,0 +1,2 @@
+language: node_js
+script: node_modules/.bin/babel test.js
